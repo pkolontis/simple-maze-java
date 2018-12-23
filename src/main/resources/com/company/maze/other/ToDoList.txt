@@ -1,2 +1,0 @@
-- Add Contributing info in project's documentation describing the contribution process.
-- Improve project's documentation by using well-formed documents
