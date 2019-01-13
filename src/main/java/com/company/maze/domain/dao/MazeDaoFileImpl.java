@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
  * Represents the Data Access Object that will populate 
  * a maze by reading a file
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class MazeDaoFileImpl implements MazeDao {
     

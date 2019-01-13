@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Represents a class containing utilities for nodes
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class NodeUtils {
     

@@ -10,7 +10,7 @@ package com.company.maze.domain.ex;
  * Thrown when the application attempts to read a file containing maze data
  * but the process is failed.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class FileNotReadException extends RuntimeException {
     

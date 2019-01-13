@@ -14,7 +14,7 @@ import java.util.List;
  * Represents the service that searches paths in a maze
  * based on start and goal nodes and returns routes
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public interface SearchService {
 

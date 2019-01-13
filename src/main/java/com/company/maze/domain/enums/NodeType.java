@@ -13,7 +13,7 @@ import java.util.Arrays;
  * A node can have only one type.
  * A default UNKNOWN is specified if value is illegal.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public enum NodeType {
     

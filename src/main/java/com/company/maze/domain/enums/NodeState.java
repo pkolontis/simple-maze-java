@@ -9,7 +9,7 @@ package com.company.maze.domain.enums;
 /**
  * Represents the state of a node in a maze
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public enum NodeState {
     

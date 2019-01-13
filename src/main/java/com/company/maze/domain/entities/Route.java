@@ -12,7 +12,7 @@ import java.util.Objects;
 /**
  * Represents a route in a maze from Start to Goal
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class Route {
     
@@ -28,7 +28,7 @@ public class Route {
     /**
      * Constructs a route with given nodes
      * 
-     * @param nodes 
+     * @param nodes list of nodes to set
      */
     public Route(List<Node> nodes) {
         this.nodes = nodes;

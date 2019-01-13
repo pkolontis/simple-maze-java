@@ -20,7 +20,7 @@ import org.junit.Test;
  * Represents a class used for testing of FileService 
  * methods such as readFile
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class FileServiceTest {
     

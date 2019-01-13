@@ -21,7 +21,7 @@ import org.junit.Test;
 /**
  * Represents a class used for testing of NodeUtils method getNodeByType.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class NodeUtilsTest {
     

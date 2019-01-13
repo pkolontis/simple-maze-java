@@ -10,7 +10,7 @@ package com.company.maze.domain.ex;
  * Thrown when the application attempts to perform an operation
  * that is not allowed in a not populated maze.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class MazeNotPopulatedException extends RuntimeException {
     

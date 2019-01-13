@@ -26,7 +26,7 @@ import org.junit.Test;
  * SAMPLE_FILES_PATH and its files should not be changed 
  * since it is required for this test
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class MazeDaoFileImplTest {
     

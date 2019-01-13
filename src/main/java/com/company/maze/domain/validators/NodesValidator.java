@@ -26,7 +26,7 @@ import org.slf4j.LoggerFactory;
  * Throws a suitable exception containing a specified
  * message when any constraint is violated.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class NodesValidator {
     

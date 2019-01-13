@@ -13,7 +13,7 @@ import com.company.maze.domain.entities.Maze;
  * a maze by reading data from a data source 
  * depends on implementation used
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public interface MazeDao {
     

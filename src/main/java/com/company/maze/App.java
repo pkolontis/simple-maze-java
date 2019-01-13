@@ -24,7 +24,7 @@ import org.slf4j.LoggerFactory;
  * and searches for a shortest route as well as for any other route
  * based on maze's start and goal nodes.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  *
  */
 public class App {
@@ -36,7 +36,7 @@ public class App {
     /** 
      * Populates a maze and searches for routes
      * 
-     * @param args 
+     * @param args the arguments array to set
      */
     public static void main(String[] args) {
         
