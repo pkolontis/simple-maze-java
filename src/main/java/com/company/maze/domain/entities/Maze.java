@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Represents a maze that consists of Nodes in a two-dimensional array
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class Maze {
     

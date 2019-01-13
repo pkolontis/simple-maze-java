@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
  * 
  * This is an implementation of Breadth-first search (BFS) algorithm.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class SearchServiceBfsImpl implements SearchService {
     

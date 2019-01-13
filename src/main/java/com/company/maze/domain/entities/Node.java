@@ -16,7 +16,7 @@ import java.util.Objects;
  * Given that every node is going to be inspected, 
  * the source represents the node that will start the inspection.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class Node {
     
@@ -29,8 +29,8 @@ public class Node {
      * Constructs a node with given coordinate and type.
      * Source will be null since is not inspected
      * 
-     * @param coord
-     * @param type 
+     * @param coord the coordinate to set
+     * @param type the type to set
      */
     public Node(Coordinate coord, NodeType type) {
         this.coord = coord;
@@ -95,7 +95,7 @@ public class Node {
      * Converts node in a human readable format
      * showing coordinate and type
      * 
-     * @return 
+     * @return a human readable format for node
      */
     @Override
     public String toString() {

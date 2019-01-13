@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Represents a service that performs file operations such as reading
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class FileService {
     

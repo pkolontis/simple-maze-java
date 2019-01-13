@@ -10,7 +10,7 @@ package com.company.maze.domain.ex;
  * Thrown when the application attempts to populate
  * a maze having a node with illegal node type
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public class NodeTypeIllegalException extends RuntimeException {
     

@@ -9,7 +9,7 @@ package com.company.maze.domain.enums;
 /**
  * Represents the four cardinal directions.
  * 
- * @author Petros Kolontis <petros.kolontis@gmail.com>
+ * @author Petros Kolontis
  */
 public enum CardinalDirection {
     
